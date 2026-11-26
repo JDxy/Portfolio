@@ -1,10 +1,11 @@
-const CACHE_NAME = "jose-david-portfolio-v1";
+const CACHE_NAME = "jose-david-portfolio-v2";
 const APP_SHELL = [
   "./",
   "./index.html",
   "./manifest.webmanifest",
-  "./css/styles.css?v=9",
+  "./css/styles.css?v=10",
   "./js/main.js?v=6",
+  "./assets/cv/CV_Jose_David_Falcon_Sosa_ES.pdf",
   "./assets/fonts/onest-variable.ttf",
   "./assets/icons/icon-180.png",
   "./assets/icons/icon-192.png",
